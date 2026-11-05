@@ -1,7 +1,6 @@
 # RV32I Five-Stage Pipeline Processor
 
-This project contains the starter files and build flow for converting the verified Lab 6 RV32I processor into a five-stage pipeline processor. Complete and verify the design according to the Lab 7 manual.
-
+This project contains the starter files and build flow for converting the verified RV32I processor into a five-stage pipeline processor.
 ## Project structure
 
 - **text**
